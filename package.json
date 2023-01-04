@@ -1,0 +1,27 @@
+{
+  "name": "kivibot-plugin-chatgptv2",
+  "version": "2.0.12",
+  "description": "[优化中]QQ 机器人框架 KiviBot 的 ChatGPT 插件的v2版本，更精确但需要更复杂的环境和配置",
+  "main": "src/index.js",
+  "author": "GinirohikoCha",
+  "scripts": {
+    "release": "npm publish"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "kivibot",
+    "kivibot-plugin",
+    "qqbot",
+    "chatgpt"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@kivibot/core": "^0.7.5"
+  },
+  "dependencies": {
+    "chatgpt": "^3.3.10",
+    "puppeteer": "^19.4.1"
+  }
+}
