@@ -3,7 +3,7 @@
 [![npm-version](https://img.shields.io/npm/v/kivibot-plugin-chatgptv2?color=10a37f&label=kivibot-plugin-chatgptv2&style=flat-square)](https://npm.im/kivibot-plugin-chatgptv2)
 [![dm](https://shields.io/npm/dm/kivibot-plugin-chatgptv2?color=10a37f&style=flat-square)](https://npm.im/kivibot-plugin-chatgptv2)
 
-[`KiviBot`](https://beta.kivibot.com) 的 [Chatgpt](https://openai.com/blog/chatgpt/) 插件v2版本，调用官方GPT-3模型更近准，但需要更「科学」的网络环境和更复杂的环境。
+[`KiviBot`](https://beta.kivibot.com) 的 [Chatgpt](https://openai.com/blog/chatgpt/) 插件v2版本，调用官方GPT-3模型更精准，但需要更「科学」的网络环境和更复杂的配置。
 
 由于Chatgpt访问量过大，官方加了Cloudflare进行访问保护，可能会遇到需要间隔一段时间就需要进行 CAPTCHA 验证的情况，在官方提供API之前本项目依然处于不稳定的状态。
 
