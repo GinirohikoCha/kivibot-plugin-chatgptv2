@@ -1,9 +1,11 @@
 {
   "name": "kivibot-plugin-chatgptv2",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "description": "[优化中]QQ 机器人框架 KiviBot 的 ChatGPT 插件的v2版本，更精确但需要更复杂的环境和配置",
   "main": "src/index.js",
   "author": "GinirohikoCha",
+  "repository": "GinirohikoCha/kivibot-plugin-chatgptv2",
+  "homepage": "https://github.com/GinirohikoCha/kivibot-plugin-chatgptv2",
   "scripts": {
     "release": "npm publish"
   },
