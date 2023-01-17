@@ -1,7 +1,7 @@
 # Chatgpt-v2 for KiviBot
 
 [![npm-version](https://img.shields.io/npm/v/kivibot-plugin-chatgptv2?color=10a37f&label=kivibot-plugin-chatgptv2&style=flat-square)](https://npm.im/kivibot-plugin-chatgptv2)
-[![dm](https://shields.io/npm/dm/kivibot-plugin-chatgptv2?color=10a37f&style=flat-square)](https://npm.im/kivibot-plugin-chatgptv2)
+[![dm](https://shields.io/npm/dt/kivibot-plugin-chatgptv2?color=10a37f&style=flat-square)](https://npm.im/kivibot-plugin-chatgptv2)
 
 [`KiviBot`](https://github.com/KiviBotLab/KiviBot) 的 [Chatgpt](https://openai.com/blog/chatgpt/) 插件v2版本，调用官方GPT-3模型更精准，但需要更「科学」的网络环境和更复杂的配置。
 
